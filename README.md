@@ -11,7 +11,7 @@ Ce projet est un compilateur développé dans le cadre d'un mini-projet de compi
 ## Grammaire Utilisée
 
 La grammaire de base utilisée pour ce compilateur est la suivante :
-![Grammaire](images/grammaire.jpg)
+![Grammaire](images/grammaire.png)
 
 
 ## Conventions Lexicales
@@ -50,7 +50,7 @@ Assurez-vous que le fichier text.txt contenant le programme source à analyser s
 
 ## Exemple
 Exemple de contenu de `text.txt` :
-![Pascal Program](images/pascal-program.jpg)
+![Pascal Program](images/pascal-program.png)
 
 ## Auteur
 **Hassen Gadacha**- Étudiant en deuxième année d'ingénierie informatique à l'ENSI.
