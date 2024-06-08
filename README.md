@@ -1,5 +1,4 @@
 # compilateur-program-pascal
-# Compilateur pour Mini Projet de Compilation
 
 ## Description
 
