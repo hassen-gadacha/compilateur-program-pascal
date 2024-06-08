@@ -1,0 +1,7 @@
+program ;aa
+begin
+var a : integer ; c : char ; 
+begin
+c:=5;
+a:=b
+end.
