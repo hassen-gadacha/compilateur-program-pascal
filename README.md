@@ -11,7 +11,7 @@ Ce projet est un compilateur développé dans le cadre d'un mini-projet de compi
 ## Grammaire Utilisée
 
 La grammaire de base utilisée pour ce compilateur est la suivante :
-
+![Grammaire](images/grammaire.jpg)
 
 
 ## Conventions Lexicales
@@ -44,25 +44,17 @@ La grammaire de base utilisée pour ce compilateur est la suivante :
    gcc main.c -o compilateur
 
 2. **Exécuter le programme :**
+   ```bash
    ./compilateur
 Assurez-vous que le fichier text.txt contenant le programme source à analyser se trouve dans le même répertoire que l'exécutable.
 
 ## Exemple
 Exemple de contenu de `text.txt` :
-
-program example;
-var x, y : integer;
-begin
-  x := 10;
-  y := 20;
-  if x < y then
-    writeln(x)
-  else
-    writeln(y);
-end.
+![Pascal Program](images/pascal-program.jpg)
 
 ## Auteur
 **Hassen Gadacha**- Étudiant en deuxième année d'ingénierie informatique à l'ENSI.
+
 
 ## Licence
 Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
